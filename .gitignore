@@ -1,0 +1,18 @@
+.venv/
+venv/
+env/
+
+# Датасеты
+dataset/
+
+*.keras
+*.h5
+*.hdf5
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.idea/
+
+.DS_Store
